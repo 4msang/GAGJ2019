@@ -6,7 +6,7 @@
 Our team [Roze Koeken](https://www.facebook.com/rozekoekenGGJ2019/) is presenting an approach to solve one of the wicked problems in the world, under the given topic of the Game Jam, "Food for Possible Futures". We focused on drawing attention to the problem of food waste.
 
 ### 1.2 Rationale
-PSAs are important because they alarm the audience of the seriousness of problems. But not every alarms ring right next to your ears. PSAs can be educational, and games can also be educational. We decided to create a cooking game that instructs player a recipe and virtually introduce an opportunity to cook, store leftover ingredients, and dispose food wastes.
+PSAs are important because they alarm the audience of the seriousness of problems. But not every alarms ring right next to your ears. PSAs can be educational, and games can also be educational. We decided to create a cooking game that instructs player a recipe and virtually introduce an opportunity to cook, store leftover ingredients, and dispose food wastes. Players will not only intuitively learn different ways to dispose food wastes by playing our game, but also acknowledge the consequence of not disposing them accordingly.
 
 ### 1.3 Ideas
 > 1. Cooking recipes should be shown spontaneously.
@@ -50,9 +50,9 @@ Controller support was implemented by using a mobile phone with Unity Remote 5 i
 <hr/>
 
 ## 3. Credits
-* Programmer: [Sean (Sang-Uk) Lee](https://github.com/sean-sanguk-lee)
+* Lead: [Sean (Sang-Uk) Lee](https://github.com/sean-sanguk-lee)
 * Programmer: [Dongjun Kim](https://www.facebook.com/profile.php?id=100009739864418)
 * Programmer: [김진형](https://www.facebook.com/profile.php?id=100013656583498)
 * Musician: [Michiel De Groot](https://www.facebook.com/profile.php?id=100008298185504)
 * Artist: [박정윤](https://www.facebook.com/profile.php?id=100004908069959)
-* This readme is writeen by Sean (Sang-Uk) Lee
+* This readme is writen by Sean (Sang-Uk) Lee
