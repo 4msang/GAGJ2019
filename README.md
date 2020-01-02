@@ -16,11 +16,11 @@ PSAs are important because they alarm the audience of the seriousness of problem
 >     3. The genre of the game in general should be rhythm action.
 > 3. Ways to dispose different food wastes should be informed.
 >     1. Food wastes should be produced by every user action.
->         1. Chop an onion by swinging a controller horizontally -> onion peel
+>         1. e.g.) Chop an onion by swinging a controller horizontally -> onion peel
 >     2. This step should be shown as another minigame after the cooking phase.
 
 ### 1.4 Note
-We later admitted that our game idea was created under a great influence of [**Rhythm Heaven**](https://en.wikipedia.org/wiki/Rhythm_Heaven).
+We later admitted that our game idea was under a great influence of [**Rhythm Heaven**](https://en.wikipedia.org/wiki/Rhythm_Heaven).
 
 <hr/>
 
@@ -30,9 +30,24 @@ We later admitted that our game idea was created under a great influence of [**R
 Currently abandoned and is waiting to be finished in the future.
 
 ### 2.1 Screenshot
-<img src="https://i.imgur.com/ntxbTyf.png" width="374.3px" height="437px" title="" alt=""></img><br/>
-<img src="https://media.giphy.com/media/KbTQEVj6jTB5b9yJ47/giphy.gif" width="700px" height="437px" title="" alt=""></img><br/>
-<img src="https://media.giphy.com/media/XHAo0cJPJ9enK9UDyb/giphy.gif" width="700px" height="437px" title="" alt=""></img><br/>
+* <img src="https://i.imgur.com/ntxbTyf.png" width="374.3px" height="437px" title="" alt=""></img>
+* <img src="https://media.giphy.com/media/KbTQEVj6jTB5b9yJ47/giphy.gif" width="700px" height="437px" title="" alt=""></img>
+* <img src="https://media.giphy.com/media/XHAo0cJPJ9enK9UDyb/giphy.gif" width="700px" height="437px" title="" alt=""></img>
+
+### 2.2 Gameplay
+The game was **supposed to be** a rhythm action game that a player swings his controller according to each situation one encounter while cooking, such as chopping with knife, pouring water to cup, frying rice on pan, and wrapping ingredients with plastic bags. The actions should happen on specific timings along a background music, which is similar to most rhythm action games.
+
+Controller support was implemented by using a mobile phone with Unity Remote 5 installed. The game uses the gyroscope & accelerometer sensor values to determine the user action. See [Assets/Scripts/UI/UiEvent.cs](https://github.com/sean-sanguk-lee/KitchenHero/blob/master/Project/GAGJ2019-07-43/Assets/Scripts/UI/UIEvent.cs).
+
+### 2.3 Future Todos
+1. Fix all animations
+2. Adding ingredients to a cart
+3. Storing leftover ingredients to a fridge
+4. Rhythm game support (Might need restructuring of the entire game)
+5. Food waste disposal minigame
+6. More recipes
+
+<hr/>
 
 ## 3. Credits
 * Programmer: [Sean (Sang-Uk) Lee](https://github.com/sean-sanguk-lee)
