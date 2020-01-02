@@ -35,8 +35,8 @@ Currently abandoned and is waiting to be finished in the future.
 <img src="https://media.giphy.com/media/XHAo0cJPJ9enK9UDyb/giphy.gif" width="700px" height="437px" title="" alt=""></img><br/>
 
 ## 3. Credits
-Programmer: [Sean (Sang-Uk) Lee](https://github.com/sean-sanguk-lee)
-Programmer: [Dongjun Kim](https://www.facebook.com/profile.php?id=100009739864418)
-Programmer: [김진형](https://www.facebook.com/profile.php?id=100013656583498)
-Musician: [Michiel De Groot](https://www.facebook.com/profile.php?id=100008298185504)
-Artist: [박정윤](https://www.facebook.com/profile.php?id=100004908069959)
+* Programmer: [Sean (Sang-Uk) Lee](https://github.com/sean-sanguk-lee)
+* Programmer: [Dongjun Kim](https://www.facebook.com/profile.php?id=100009739864418)
+* Programmer: [김진형](https://www.facebook.com/profile.php?id=100013656583498)
+* Musician: [Michiel De Groot](https://www.facebook.com/profile.php?id=100008298185504)
+* Artist: [박정윤](https://www.facebook.com/profile.php?id=100004908069959)
