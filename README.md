@@ -30,6 +30,6 @@ We later admitted that our game idea was created under a great influence of [**R
 Currently abandoned and is waiting to be finished in the future.
 
 ### 2.1 Screenshot
-![Screenshot1](https://imgur.com/a/Ure5g2O)
-![Screenshot2](https://gph.is/g/E0lg5ey)
-![Screenshot3](https://gph.is/g/Z5nQ5Rw)
+<img src="https://i.imgur.com/ntxbTyf.png" width="374.3px" height="437px" title="" alt=""></img><br/>
+<img src="https://media.giphy.com/media/KbTQEVj6jTB5b9yJ47/giphy.gif" width="700px" height="437px" title="" alt=""></img><br/>
+<img src="https://media.giphy.com/media/XHAo0cJPJ9enK9UDyb/giphy.gif" width="700px" height="437px" title="" alt=""></img><br/>
