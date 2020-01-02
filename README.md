@@ -40,3 +40,4 @@ Currently abandoned and is waiting to be finished in the future.
 * Programmer: [김진형](https://www.facebook.com/profile.php?id=100013656583498)
 * Musician: [Michiel De Groot](https://www.facebook.com/profile.php?id=100008298185504)
 * Artist: [박정윤](https://www.facebook.com/profile.php?id=100004908069959)
+* This readme is writeen by Sean (Sang-Uk) Lee
